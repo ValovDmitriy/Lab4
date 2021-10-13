@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4", "Lab4\Lab4.csproj", "{73AE5148-288A-400B-927E-1BD6251630B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForLoop", "Lab4\ForLoop.csproj", "{73AE5148-288A-400B-927E-1BD6251630B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhileLoop", "DoWhileLoop\DoWhileLoop.csproj", "{D2808633-583E-405C-B3CF-244A6750A957}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{6560EE2C-A536-420C-AC20-4D01AFE9F03B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{73AE5148-288A-400B-927E-1BD6251630B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73AE5148-288A-400B-927E-1BD6251630B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73AE5148-288A-400B-927E-1BD6251630B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2808633-583E-405C-B3CF-244A6750A957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2808633-583E-405C-B3CF-244A6750A957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2808633-583E-405C-B3CF-244A6750A957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2808633-583E-405C-B3CF-244A6750A957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6560EE2C-A536-420C-AC20-4D01AFE9F03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6560EE2C-A536-420C-AC20-4D01AFE9F03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6560EE2C-A536-420C-AC20-4D01AFE9F03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6560EE2C-A536-420C-AC20-4D01AFE9F03B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
